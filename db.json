@@ -3,17 +3,17 @@
     {
       "categoria": "Fruta",
       "nome": "Bananas",
-      "id": 1,
+      "id": 1
     },
     {
       "categoria": "Fruta",
       "nome": "Morangos",
-      "id": 2,
+      "id": 2
     },
     {
       "categoria": "Legumes",
       "nome": "Couve",
-      "id": 3,
+      "id": 3
     }
   ]
 }
